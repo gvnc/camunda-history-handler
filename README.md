@@ -2,7 +2,7 @@
 
 This project has all the content mentioned in this below medium post.
 
-https://medium.com/@guvenc.kazanci/camunda-springboot-starter-3-6e02f7f7b713
+https://medium.com/@guvenc.kazanci/camunda-springboot-starter-4-facf80a1fc0f
 
 If you want to clone and run it, 
 
